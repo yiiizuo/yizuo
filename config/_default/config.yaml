@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: YiZuo's pensonal web # Website name
-baseURL: 'https://joey-cv.github.io/' # Website URL
+baseURL: '#' # Website URL
 
 ############################
 ## LANGUAGE
